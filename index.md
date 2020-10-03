@@ -4,7 +4,7 @@ Contact: ni49@cornell.edu
 
 [Personal Website](https://sites.google.com/cornell.edu/nabil-imam/home) 
 
-![Image](nabil.imam.jpg)
+![Image|nabilimam](nabil.imam.jpg)
 
 ## Papers
 
