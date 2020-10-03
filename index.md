@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Nabil Imam 
 
-You can use the [editor on GitHub](https://github.com/nimam4/nimam4.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Contact: ni49@cornell.edu
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Personal Website](https://sites.google.com/cornell.edu/nabil-imam/home) 
 
-### Markdown
+![Image](nabil.imam.jpg)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Papers
 
-```markdown
-Syntax highlighted code block
+Nabil Imam and Barbara Finlay. [Self-organization of cortical areas in the development and evolution of neocortex: a network growth model](Imam_Finlay_2020.pdf). bioRxiv preprint. 2020. 
 
-# Header 1
-## Header 2
-### Header 3
+Nabil Imam and Thomas Cleland. [Rapid online learning and robust recall in a neuromorphic olfactory circuit](Imam_Cleland_2020.pdf). Nature Machine Intelligence. 2020 (featured in journal cover). 
 
-- Bulleted
-- List
+Paul Merolla, et al. [A million spiking-neuron integrated circuit with a scalable communication network and interface](IBM_TrueNorth.pdf). Science. 2014 (featured in journal cover). 
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nimam4/nimam4.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Nabil Imam, et al.  [A digital neurosynaptic core using event-driven QDI circuits](Imam_ASYNC_2012.pdf). IEEE International Symposium on Asynchronous Circuits and Systems. 2012 (Best Paper Award). 
